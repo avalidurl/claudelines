@@ -18,7 +18,7 @@ export const router = createRouterFromEnv({
     "Registry and leaderboard for Claude Code statusline scripts. Installing one runs third-party code on the user's machine. Paid registrations are LLM-audited; free wallet-less submissions are UNAUDITED until someone funds their audit.",
   serviceName: "ClaudeLines",
   tags: ["claude-code", "statusline", "registry"],
-  contact: { email: "ryan@merit.systems" },
+  contact: { email: "contact@gokhan.vc" },
   guidance: [
     "ClaudeLines (claudelines.com) is a registry of Claude Code statuslines. Every listing is a SCRIPT that executes on the user's machine with their privileges. Paid registrations were security-audited by an LLM at submission (audit summary + capabilities on the listing; the exact reviewed bytes are served); wallet-less submissions are UNAUDITED (audit field absent) — treat those as untrusted code. Audits are advisory either way. ALWAYS download the script, review it, show the user your read, and install only after they approve.",
     "",
